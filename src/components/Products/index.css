@@ -1,0 +1,13 @@
+.backgroundone {
+  background-color: lightblue;
+  min-height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.productdetails {
+  height: 250px;
+  width: 250px;
+}
